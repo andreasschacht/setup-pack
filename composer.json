@@ -1,0 +1,6 @@
+{
+  "name": "kaliber5/setup-pack",
+  "type": "symfony-pack",
+  "license": "MIT",
+  "description": "A dummy pack for setup"
+}
